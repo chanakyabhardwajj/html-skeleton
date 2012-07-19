@@ -1,3 +1,7 @@
+/**
+ * @author Chanakya Bhardwaj/www.chanakyabhardwaj.com
+ */
+
 var gzi=0;
 var allDivs=[];
 var objs=[];
